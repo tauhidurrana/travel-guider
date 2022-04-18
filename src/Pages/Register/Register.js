@@ -26,7 +26,7 @@ const Register = () => {
         const email =  event.target.email.value;
         const password = event.target.password.value;
 
-        createUserWithEmailAndPassword(email, password)
+        createUserWithEmailAndPassword(email, password);
     }
     return (
         <div className='register-form'>
@@ -44,3 +44,6 @@ const Register = () => {
 };
 
 export default Register;
+
+
+//  {sendEmailVerification: true}
