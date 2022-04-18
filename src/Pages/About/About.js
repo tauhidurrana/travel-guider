@@ -1,9 +1,24 @@
 import React from 'react';
+import rana from '../../Images/tauhid-rana.jpg'
 
 const About = () => {
     return (
-        <div>
-            <h2>This is About section</h2>
+        <div className='container'>
+            <div style={{ width: "800px" }} className=' mt-5 d-flex justify-content-space-between align-items-center'>
+                <div>
+                    <img style={{ width: '500px' }} src={rana} alt="" />
+                    
+                </div>
+
+                <div>
+                    <h3 style={{color:'green'}}>Tauhidur Rahman Rana</h3>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Become a full stack web developer</li>
+                        <li class="list-group-item">Get a good job in next few months</li>
+                        <li class="list-group-item">Earning lots of money</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     );
 };

@@ -4,7 +4,7 @@ import { ListGroup, Table } from 'react-bootstrap';
 const Blogs = () => {
     return (
         <div className='container mt-5'>
-            <h3>Que-1: Difference between Authentication & Authorization</h3>
+            <h3 style={{color:'green'}}>Que-1: Difference between Authentication & Authorization?</h3>
             <Table striped bordered hover variant="dark">
                 <thead>
                     <tr>
@@ -38,7 +38,7 @@ const Blogs = () => {
             </Table>
 
             <div>
-                <h3>Que-2: Why are you using firebase? What other options do you have to implement authentication?</h3>
+                <h3 style={{color:'green'}}>Que-2: Why are you using firebase? What other options do you have to implement authentication?</h3>
 
                 <ListGroup as="ul">
                     <ListGroup.Item as="li" active>
@@ -55,7 +55,7 @@ const Blogs = () => {
                 </ListGroup>
             </div>
             <div className='mt-2'>
-                <h3>Alternatives of firebase Auth:</h3>
+                <h3 style={{color:'green'}}>Alternatives of firebase Auth:</h3>
                 <ListGroup horizontal>
                     <ListGroup.Item>Auth0</ListGroup.Item>
                     <ListGroup.Item>MongoDB</ListGroup.Item>
@@ -63,8 +63,8 @@ const Blogs = () => {
                     <ListGroup.Item>Okta!</ListGroup.Item>
                 </ListGroup>
             </div>
-            <div className='mt-5 mb-5'>
-                <h3>Que-3: What other services does firebase provide than Authentication?</h3>
+            <div className='mt-2 mb-5'>
+                <h3 style={{color:'green'}}>Que-3: What other services does firebase provide than Authentication?</h3>
                 <p>
                      Cloud Firestore.
                     Cloud Functions.
