@@ -1,6 +1,6 @@
 # Travel Guider
 
-Live project link [Travel Guider](https://github.com/facebook/create-react-app).
+Live project link [Travel Guider](https://travel-guider-9a77b.web.app).
 
 ## Available Scripts
 
@@ -12,6 +12,10 @@ About the projects:
 * Email and google Authentication.
 
 Technology used:
+* React JS.
+* Javascript.
+* HTML.
+* css.
 * Firebase Authentication.
 * React Bootstrap.
 * React Router dom.

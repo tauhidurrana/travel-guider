@@ -1,0 +1,14 @@
+.service{
+    /* position: relative; */
+}
+
+.btn-service{
+    width: 100%;
+    border: none;
+    box-sizing: border-box;
+    /* position: absolute; */
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
