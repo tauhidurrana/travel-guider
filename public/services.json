@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Kaptai Lake",
+        "price": "5000",
+        "description": "Kaptai Lake located in Kaptai Rangamati. One of the most beautiful place in Bangladesh",
         "img": "https://i.ibb.co/KDzMN9F/kaptai-lake.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Sundarban",
+        "price": "8000",
+        "description": "Worlds largest Mangrove forest in the world. It is located in khulna division in Bangladesh and some other parts in west Bengal India.",
         "img": "https://i.ibb.co/QvL5TTk/sundarban-2.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Tea Gardern, Sreemangal",
+        "price": "6000",
+        "description": "Sylhet is the promiment area for Tea gardern in Bangladesh. It is called Tea and green city of Bangladesh.",
         "img": "https://i.ibb.co/88ZXDh5/sylhet.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "St.Martin",
+        "price": "9000",
+        "description": "St.Martin Iland is one of the most beautiful places in Bangladesh. It is the tourists atrractive place",
         "img": "https://i.ibb.co/J35DWgj/stmartin.jpg"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Nil Giri, Bandarban",
+        "price": "6500",
+        "description": "Want to see the Hil tracts with deep forest? You should go Bandarban.",
         "img": "https://i.ibb.co/929y1hg/bandarban.jpg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "name": "Jaflong",
+        "price": "5500",
+        "description": "Jaflong is the most most beautiful place in Sylhet located in Border area near India.",
         "img": "https://i.ibb.co/Cnfw5bp/jaflong.jpg"
     }
 ]
