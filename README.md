@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# Travel Guider
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live project link [Travel Guider](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+About the projects:
+* A Travel Guiding website.
+* you can book events.
+* A blog page with three different que and ans.
+* single page with route with error handling.
+* Email and google Authentication.
+
+Technology used:
+* Firebase Authentication.
+* React Bootstrap.
+* React Router dom.
+* Firebase hook.
+* React Firebase hook.
 
 ### `npm start`
 

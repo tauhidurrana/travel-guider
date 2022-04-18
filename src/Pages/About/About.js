@@ -13,8 +13,8 @@ const About = () => {
                 <div>
                     <h3 style={{color:'green'}}>Tauhidur Rahman Rana</h3>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Become a full stack web developer</li>
-                        <li class="list-group-item">Get a good job in next few months</li>
+                        <li class="list-group-item">Travel the whole world</li>
+                        <li class="list-group-item">Plant more trees</li>
                         <li class="list-group-item">Earning lots of money</li>
                     </ul>
                 </div>
